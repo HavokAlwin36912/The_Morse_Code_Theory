@@ -1,4 +1,4 @@
-## ***The Morse Code Theory by Alwin & Nivethitha*** 
+## ***The Morse Code Theory*** 
 ### ***( GPS-Integrated Emergency Beacon Using OOK Modulation and SDR Reception With RF Signal generator )***
 
 ### *Tech behind it :* <br>
