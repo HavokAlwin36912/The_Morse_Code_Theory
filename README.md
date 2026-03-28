@@ -37,6 +37,7 @@ Example:
 6. **Reception**  
    The RF signal is captured using a **BladeRF SDR**, allowing waveform observation and decoding.
 
-
+### ***Pin Configuration :***
+<img width="652" height="542" alt="Pin_config" src="https://github.com/user-attachments/assets/fcae80e0-5fbb-4068-b829-271def22f6ff" /> <br>
 ### *Demo :* <br>
 [Watch This Video](https://youtu.be/Z5Ts6uCkag4)
